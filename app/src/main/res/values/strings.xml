@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">বাংলাদেশঃফলের নাম</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="desi_name">
+        <item>	কলা	</item>
+        <item>	কাঁঠাল	</item>
+        <item>	আম	</item>
+        <item>	লিচু	</item>
+        <item>	আমড়া	</item>
+        <item>	পেঁপে	</item>
+        <item>	নারিকেল	</item>
+        <item>	পেয়ারা	</item>
+        <item>	জামরুল	</item>
+        <item>	কালোজাম	</item>
+        <item>	কমলা	</item>
+        <item>	জাম্বুরা	</item>
+        <item>	বেল	</item>
+        <item>	কদবেল 	</item>
+        <item>	আতা	</item>
+        <item>	বরই	</item>
+        <item>	সফেদা	</item>
+        <item>	আমলকী	</item>
+        <item>	ডালিম	</item>
+        <item>	চালতা	</item>
+        <item>	কামরাঙা	</item>
+        <item>	আনারস	</item>
+        <item>	তরমুজ	</item>
+        <item>	লেবু 	</item>
+
+
+    </string-array>
+    <string-array name="deshi_englis">
+        <item>	Banana	</item>
+        <item>	Jackfruit	</item>
+        <item>	Mango	</item>
+        <item>	Litchi	</item>
+        <item>	Hog Plum	</item>
+        <item>	Papaya	</item>
+        <item>	Coconut	</item>
+        <item>	Guava	</item>
+        <item>	Star Apple	</item>
+        <item>	Black Berry	</item>
+        <item>	Orange	</item>
+        <item>	Shaddock/Pummelo	</item>
+        <item>	Wood Apple	</item>
+        <item>	Limonia(Plant)	</item>
+        <item>	Custard Apple	</item>
+        <item>	Jujube	</item>
+        <item>	Sapodila	</item>
+        <item>	Embica	</item>
+        <item>	Pomegranate	</item>
+        <item>	Elephant Apple	</item>
+        <item>	Carambola/Star Fruit</item>
+        <item>	Pineapple	</item>
+        <item>	Watermelon	</item>
+        <item>	Lemon	</item>
+
+    </string-array>
+    <string-array name="bideshi_bangla">
+        <item>আপেল</item>
+        <item>আভোকাডো</item>
+        <item>চেরি</item>
+
+        <item>খেজুর</item>
+        <item>ড্রাগন ফ্রুট</item>
+        <item>আঙ্গুর</item>
+        <item>মালটা  </item>
+        <item>কমলা</item>
+        <item>নাশপাতি</item>
+        <item>পিচ</item>
+        <item>স্ত্রবেরি</item>
+        <item>ব্লুবেরি</item>
+
+
+    </string-array>
+
+    <string-array name="bedeshi_english">
+        <item>Apple</item>
+        <item>Avacado</item>
+        <item>Cherry</item>
+        <item>Date</item>
+        <item>Dragon Fruit</item>
+        <item>Grape</item>
+        <item>Mandarian Orange</item>
+        <item>Orange</item>
+        <item>Pear</item>
+        <item>Peach</item>
+        <item>Strawberry</item>
+        <item>Blueberry</item>
+    </string-array>
+
+</resources>
