@@ -1,12 +1,14 @@
 package alvi17.bangladeshfruitsname;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+
 import android.view.Gravity;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdSize;
@@ -15,7 +17,7 @@ import com.google.android.gms.ads.AdView;
 /**
  * Created by Alvi17 on 9/1/2015.
  */
-public class BeDeshi_Details extends AppCompatActivity{
+public class BeDeshi_Details extends AppCompatActivity {
     TextView t1,t2,t3;
     ImageView img;
     FrameLayout fm;

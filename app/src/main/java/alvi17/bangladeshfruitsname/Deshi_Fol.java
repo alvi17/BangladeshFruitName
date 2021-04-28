@@ -4,7 +4,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.res.Resources;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+
 import android.util.DisplayMetrics;
 import android.view.Gravity;
 import android.view.View;
@@ -15,6 +15,8 @@ import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.TableLayout;
 
+import androidx.appcompat.app.AppCompatActivity;
+
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdSize;
 import com.google.android.gms.ads.AdView;
@@ -22,7 +24,7 @@ import com.google.android.gms.ads.AdView;
 /**
  * Created by Alvi17 on 8/29/2015.
  */
-public class Deshi_Fol extends AppCompatActivity{
+public class Deshi_Fol extends AppCompatActivity {
     TableLayout table;
     ListView listView;
     String[] bangla;
